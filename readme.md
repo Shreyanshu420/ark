@@ -1,5 +1,7 @@
 
 # Ark
+# Python
+# Awesome Project
 
 Ark is a static website generator written in Python. It transforms a
 directory of text files into a self-contained website that can be viewed
